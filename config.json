@@ -1,0 +1,7 @@
+{
+    "_comment": "RDS settings",
+    "rds_host": "",
+    "username": "",
+    "password": "",
+    "db_name": ""
+}
